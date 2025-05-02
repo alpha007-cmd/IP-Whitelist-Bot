@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "axios": "^1.7.2",
+        "canvas": "^2.11.2",
+        "child_process": "^1.0.2",
+        "discord.js": "^14.17.3",
+        "googleapis": "^140.0.1",
+        "logger": "^0.0.1",
+        "node-schedule": "^2.1.1",
+        "nodeman": "^1.1.2",
+        "nodemon": "^3.0.3",
+        "punycode": "^2.3.1"
+    },
+    "name": "ipwhitelistbot",
+    "version": "1.0.0",
+    "description": "IP Whitelist Bot For Fivem to make the server connection faster and better",
+    "main": "index.js",
+    "scripts": {
+        "test": "ping"
+    },
+    "author": "Alpha",
+    "license": "ISC"
+}
